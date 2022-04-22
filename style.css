@@ -1,0 +1,44 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+label,
+button,
+input {
+  font-family: "PT Serif", serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f3f0d7;
+}
+
+header,
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bmi-container {
+  /* border: 1px solid grey; */
+  box-shadow: 0.5px 0.5px 1px 1px #cee5d0;
+  padding: 20px;
+  /* border-radius: 4px; */
+  background-color: #cee5d0;
+}
+
+/* .btn-primary {
+  background-color: #fed2aa;
+  border-color: #fed2aa;
+  color: #000;
+}
+
+.btn-primary:hover {
+  background-color: #ffbf86;
+  border-color: #ffbf86;
+  color: #000;
+} */
